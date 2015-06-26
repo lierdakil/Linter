@@ -1,3 +1,8 @@
+# Upcoming
+
+* Split errors / warnings into status bar (Fixes #595)
+* Add documentation about keymaps / shortcuts (Fixes #597)
+
 # 1.0.6
 
 * Hide Status Bar buttons when Active Pane is not an editor
